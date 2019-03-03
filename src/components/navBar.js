@@ -11,7 +11,7 @@ const NavBar = () =>
   <nav className="navbar navbar-default">
     <div className="container-fluid">
       <div className="navbar-header">
-        <a className="navbar-brand" href="#">HNGRY</a>
+        <a className="navbar-brand" href="#">HUNGRY MAP</a>
         <form className="navbar-form navbar-left">
           <SearchBox />
         </form>
