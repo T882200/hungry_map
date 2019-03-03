@@ -1,5 +1,4 @@
-# HNGRY
-[![Build Status](https://travis-ci.org/martinkwan/HNGRY.svg?branch=master)](https://travis-ci.org/martinkwan/HNGRY)
+# HNUGRY MAP
 
 HNGRY is a web application to find and plot nearby restaurants on a map.
 
@@ -10,7 +9,7 @@ HNGRY is a web application to find and plot nearby restaurants on a map.
 - Install NPM dependencies in terminal: `npm install`
 - Run: `npm run build`
 - Run: `npm start`
-- Navigate to localhost:3000
+- Navigate to localhost:8080
 
 
 ## Usage
