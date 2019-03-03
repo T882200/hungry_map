@@ -2,7 +2,7 @@
 
 HNGRY is a web application to find and plot nearby restaurants on a map.
 
-![Alt text](screenShot.png "HNGRY")
+![Alt text](https://snag.gy/hTPQ6R.jpg "HNGRY")
 
 ## Installation
 - Clone down the repo
